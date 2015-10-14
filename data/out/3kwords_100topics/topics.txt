@@ -1,0 +1,504 @@
+topic 0
+
+
+topic 1
+run			0.485151515152
+test,testing,tests			0.326734693878
+
+
+topic 2
+defense			0.471176470588
+change,changes,changing			0.37310880829
+step,steps,stepped,stepping			0.369384615385
+slow,slowed			0.326734693878
+washington			0.326734693878
+full			0.3204
+achieved,achievement,achieving,achieves,achievable,achievements			0.3204
+exist,existing,existence			0.320399620563
+
+
+topic 3
+
+
+topic 4
+bad			0.421228070175
+discussion,discussions,discussed			0.3204
+
+
+topic 5
+recent,recently			0.390487804878
+congressional			0.3204
+
+
+topic 6
+
+
+topic 7
+
+
+topic 8
+
+
+topic 9
+list,lists,listing			0.326734693878
+
+
+topic 10
+hardline,hardliners			0.585609756098
+human			0.548082191781
+small			0.471176470588
+publics			0.326734693878
+discussion,discussions,discussed			0.3204
+another			0.3204
+account,accounting,accounts,accountable			0.3204
+
+
+topic 11
+
+
+topic 12
+
+
+topic 13
+experts			0.89
+arguments			0.471176470588
+
+
+topic 14
+arrangements			0.6404
+address,addressed,addressing,addresses			0.471176470588
+submitted,submitting			0.471176470588
+problem,problems			0.390487804878
+doesn			0.328904109589
+
+
+topic 15
+reimpose,reimposing,reimposed,reimposes			0.485151515152
+
+
+topic 16
+achieved,achievement,achieving,achieves,achievable,achievements			0.3204
+
+
+topic 17
+assets			0.89
+china			0.424867256637
+decided,deciding,decides			0.390487804878
+cheat,cheats,cheating,cheated			0.328904109589
+prepared,preparations,prepares			0.326734693878
+supreme			0.326734693878
+banking,banks			0.3204
+good,goods			0.3204
+
+
+topic 18
+trading,trade,trades			0.492461538462
+
+
+topic 19
+scale			0.89
+secretary			0.49
+presidential			0.471176470588
+maintain,maintained,maintains,maintaining			0.3204
+authority,authorization,authorities,authorizing,authorized,authorizes			0.3204
+
+
+topic 20
+defense			0.471176470588
+adoption,adopts,adopted			0.421228062643
+passes,passing,passed			0.326734693878
+discussion,discussions,discussed			0.3204
+define,defined,defining,defines			0.3204
+
+
+topic 21
+representing,representatives,represents			0.561578947368
+decision,decisive,decisions			0.326734693878
+transfer,transfers,transferring			0.3204
+
+
+topic 22
+
+
+topic 23
+procurement,procurements			0.3204
+
+
+topic 24
+reject,rejected,rejecting,rejection,rejects			0.471176470588
+declared,declaring,declarations			0.3204
+follow,follows,following			0.3204
+
+
+topic 25
+pressed,pressing			0.320399667149
+
+
+topic 26
+pressed,pressing			0.6404
+slow,slowed			0.326734693878
+banking,banks			0.3204
+
+
+topic 27
+approval,approved			0.326734682859
+verification			0.3204
+
+
+topic 28
+exist,existing,existence			0.3204
+
+
+topic 29
+
+
+topic 30
+iaea			0.323265992427
+allows,allowed,allowing			0.304857135727
+
+
+topic 31
+
+
+topic 32
+key			0.889999731601
+full			0.6404
+capacity,capacities			0.489999983649
+avoid,avoids,avoiding,avoided,avoidance			0.485151515152
+subjected			0.485151515152
+reimpose,reimposing,reimposed,reimposes			0.485151515152
+violates,violations,violating,violated			0.390487804878
+termination,terminate,terminated,terminating			0.36938450875
+faces,faced,facing			0.326734693878
+result,resulted			0.326734693878
+several,severely			0.326734693878
+system,systems			0.326734693878
+
+
+topic 33
+address,addressed,addressing,addresses			0.471176470588
+
+
+topic 34
+main			0.485151515152
+responsibility,responses,responsibilities,responsible			0.485151515152
+countering			0.390487804878
+
+
+topic 35
+operation,operating,operations,operate,operationally,operated			0.326734693878
+exist,existing,existence			0.3204
+
+
+topic 36
+removed,removing,removal			0.485151491116
+evidence			0.471176470588
+
+
+topic 37
+percent			0.592716041793
+reduce,reduced,reducing,reduces			0.390487759761
+another			0.3204
+
+
+topic 38
+
+
+topic 39
+consider,considered,considering,considers			0.492461538462
+
+
+topic 40
+
+
+topic 41
+
+
+topic 42
+
+
+topic 43
+another			0.3204
+
+
+topic 44
+concessions			0.561578947368
+walk,walked			0.485151515152
+won			0.485151515152
+evidence			0.471176470588
+since			0.395185185185
+moreover			0.390487804878
+
+
+topic 45
+
+
+topic 46
+
+
+topic 47
+submitted,submitting			0.471176470588
+
+
+topic 48
+define,defined,defining,defines			0.3204
+
+
+topic 49
+conventional			0.390487790369
+
+
+topic 50
+
+
+topic 51
+
+
+topic 52
+arguments			0.471176470588
+plutonium			0.369384615385
+assert,assertive,assertions,asserts,assertiveness,asserted			0.328904109589
+verification			0.3204
+elements			0.3204
+
+
+topic 53
+risk,risks,risking			0.941764705882
+hold,holding			0.390487804878
+especially			0.326734693878
+
+
+topic 54
+presidential			0.471176470588
+banking,banks			0.3204
+transfer,transfers,transferring			0.3204
+oil			0.3204
+
+
+topic 55
+
+
+topic 56
+
+
+topic 57
+achieved,achievement,achieving,achieves,achievable,achievements			0.3204
+declared,declaring,declarations			0.3204
+veto,vetoing			0.3204
+legislators,legislative,legislation			0.3204
+
+
+topic 58
+
+
+topic 59
+veto,vetoing			0.6404
+stop,stopped,stopping			0.471176470588
+congressional			0.3204
+
+
+topic 60
+
+
+topic 61
+enforcer,enforcement,enforcing,enforced			0.941764705882
+
+
+topic 62
+pursue,pursued,pursuing			0.471176470588
+week,weeks			0.390487804878
+historic			0.390487804878
+
+
+topic 63
+authority,authorization,authorities,authorizing,authorized,authorizes			0.3204
+
+
+topic 64
+
+
+topic 65
+consequences			0.780731673022
+scenario			0.780731673022
+comply,complies,complying			0.492461516829
+compliance			0.485151472489
+challenge,challenges,challenging			0.421228037255
+good,goods			0.3204
+
+
+topic 66
+pursue,pursued,pursuing			0.471176470588
+operation,operating,operations,operate,operationally,operated			0.326734684209
+approval,approved			0.3267346449
+
+
+topic 67
+
+
+topic 68
+form,forms,forming			0.485151515152
+reject,rejected,rejecting,rejection,rejects			0.471176470588
+options,optional			0.395185185185
+beyond			0.390487804878
+week,weeks			0.390487804878
+attack,attacking,attacks,attacked			0.33
+understandable,understanding,understandably,understandings,understands			0.326734693878
+
+
+topic 69
+arrangements			0.3204
+
+
+topic 70
+council			0.494948453608
+resolutely,resolution,resolutions			0.330661157025
+involvement,involved,involves,involving			0.326734693878
+elements			0.3204
+
+
+topic 71
+
+
+topic 72
+perhaps			0.326734693878
+oil			0.3204
+
+
+topic 73
+executing,executive,execution,executed			0.89
+confrontation,confronted,confrontational,confronting			0.471176470588
+nothing			0.421228070175
+best			0.395185158681
+decision,decisive,decisions			0.326734693878
+account,accounting,accounts,accountable			0.3204
+procurement,procurements			0.320399667403
+
+
+topic 74
+maintain,maintained,maintains,maintaining			0.3204
+authority,authorization,authorities,authorizing,authorized,authorizes			0.3204
+
+
+topic 75
+intelligence			0.390487804878
+
+
+topic 76
+promise,promised,promises,promising			0.326734693878
+good,goods			0.3204
+
+
+topic 77
+congressional			0.3204
+
+
+topic 78
+legislators,legislative,legislation			0.6404
+grade			0.489999900672
+read,reading			0.485151515152
+strong			0.471176470588
+nonproliferation			0.471176470588
+produced,producing			0.39518514019
+
+
+topic 79
+procurement,procurements			0.3204
+follow,follows,following			0.3204
+
+
+topic 80
+
+
+topic 81
+
+
+topic 82
+nonproliferation			0.471176470588
+seeks,seeking			0.326734693878
+significant,significance			0.326734693878
+oil			0.3204
+
+
+topic 83
+
+
+topic 84
+
+
+topic 85
+
+
+topic 86
+stop,stopped,stopping			0.471176470588
+
+
+topic 87
+
+
+topic 88
+
+
+topic 89
+small			0.471176470588
+
+
+topic 90
+define,defined,defining,defines			0.3204
+
+
+topic 91
+hears,hearings			0.941764705882
+termination,terminate,terminated,terminating			0.492461538462
+technology,technologies,technological,technologically			0.485151515152
+strong			0.471176470588
+disputes,disputed			0.438493150685
+ensure,ensures,ensuring			0.390487804878
+economic,economically			0.381047619048
+obligations,obligating			0.369384615385
+resolving,resolve,resolves,resolved			0.359662921348
+approach			0.326734693878
+maintain,maintained,maintains,maintaining			0.3204
+account,accounting,accounts,accountable			0.3204
+verification			0.3204
+follow,follows,following			0.3204
+joint			0.316440677966
+
+
+topic 92
+transfer,transfers,transferring			0.3204
+
+
+topic 93
+detect,detecting,detected,detection			0.89
+illicit			0.89
+
+
+topic 94
+run			0.485151515152
+success,successful,succession,successfully			0.326734693878
+elements			0.3204
+
+
+topic 95
+let,letting			0.89
+confrontation,confronted,confrontational,confronting			0.471176470588
+hezbollah			0.326734693878
+declared,declaring,declarations			0.3204
+
+
+topic 96
+really			0.390487804878
+hold,holding			0.390487804878
+
+
+topic 97
+
+
+topic 98
+
+
+topic 99
+asking,asks,asked			0.390487804878
+hezbollah			0.326734693878
+
+
